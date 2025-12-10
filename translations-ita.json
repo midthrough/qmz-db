@@ -4,7 +4,7 @@
     "subtitle": "Scegli una categoria per vedere i mazzi"
   },
   "categories": {
-    "Get to know you": "Conosciamoci meglio",
+    "Get to know you": "Conosciamoci",
     "Edgy vibes": "Vibrazioni piccanti",
     "Family talks": "Dialoghi familiari",
     "Work mood": "Atmosfera lavorativa",
@@ -107,6 +107,10 @@
   },
   "settings": {
     "title": "Impostazioni",
+    "premiumBanner": {
+      "title": "Ottieni Lummy Illimitato",
+      "description": "Generazioni infinite e accesso completo"
+    },
     "appearance": {
       "title": "Aspetto",
       "theme": "Cambia tema",
@@ -164,7 +168,11 @@
     "addedToFavorites": "Aggiunto ai preferiti",
     "removedFromFavorites": "Rimosso dai preferiti",
     "languageChanged": "Lingua cambiata",
-    "themeChanged": "Tema cambiato"
+    "themeChanged": "Tema cambiato",
+    "itemDeleted": "Elemento eliminato con successo!",
+    "purchaseRestored": "Acquisti ripristinati con successo!",
+    "noPurchasesFound": "Nessun acquisto trovato da ripristinare.",
+    "restoreFailed": "Impossibile ripristinare gli acquisti. Riprova."
   },
   "bottomNav": {
     "decks": "Mazzi",
