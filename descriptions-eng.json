@@ -1,0 +1,84 @@
+{
+  "shuffle": {
+    "about": "A totally wow random mix of questions from all categories and moods. Never know what's coming next—could be funny, deep, spicy, or thoughtful. Perfect for groups who want variety and spontaneity.",
+    "format": "Works for 2–15 people. Random draw from all question types. Keep everyone guessing, keep the energy high."
+  },
+  "subcategories": {
+    "This or That": {
+      "about": "Quick, playful either/or questions that reveal preferences and personality in seconds. Perfect for breaking the ice and discovering what makes someone tick through simple but telling choices.",
+      "format": "Ideal for 2–8 people. Easy, casual, low-stakes questions. No pressure, just fun conversation."
+    },
+    "Light Questions": {
+      "about": "Warm, approachable questions that keep things friendly and comfortable. Great for getting to know someone without going too deep too fast.",
+      "format": "Perfect for 2–10 people. Light topics, easy sharing. Safe space to open up at your own pace."
+    },
+    "Moderate Questions": {
+      "about": "A step deeper than small talk. These questions invite meaningful stories, opinions, and experiences without getting too heavy.",
+      "format": "Best for 2–8 people. Medium depth, thoughtful responses. Good balance between fun and substance."
+    },
+    "In-depth Questions": {
+      "about": "For when you're ready to go beyond the surface. These questions explore values, life lessons, and deeper reflections that reveal who someone really is.",
+      "format": "Works best with 2–6 people. Deeper topics, longer conversations. Create trust and real connection."
+    },
+    "Love Couples": {
+      "about": "Designed specifically for couples to deepen intimacy, explore dreams together, and have those sweet or tough conversations that strengthen relationships.",
+      "format": "Made for 2 people (couples). Intimate questions, honest sharing. Build closeness and understanding."
+    },
+    "Parent Perspective": {
+      "about": "Questions from the parent's point of view—exploring parenting styles, values you'd pass down, and the joys and challenges of raising kids.",
+      "format": "Great for 2–8 people. Parent-focused topics. Share wisdom, laugh at chaos, bond over the journey."
+    },
+    "Child Perspective": {
+      "about": "Looking back at childhood memories, funny moments, and the unique lens of being a kid. Nostalgia meets playful storytelling.",
+      "format": "Perfect for 2–10 people. Childhood memories, silly stories. Relive the good old days together."
+    },
+    "Sibling Perspective": {
+      "about": "All about sibling dynamics—inside jokes, epic fights, and the chaotic bond that only brothers and sisters understand.",
+      "format": "Best for 2–6 people. Sibling-specific stories. Laugh about the rivalry, celebrate the bond."
+    },
+    "Grandparent Perspective": {
+      "about": "Honoring the wisdom, humor, and stories of grandparents. Questions that spark intergenerational connection and timeless advice.",
+      "format": "Ideal for 2–8 people. Multigenerational sharing. Bridge the gap, treasure the stories."
+    },
+    "This or That (Funny)": {
+      "about": "Ridiculous either/or scenarios that make zero sense but spark huge laughs. Expect absurdity, expect chaos, expect fun.",
+      "format": "Perfect for 2–12 people. Silly choices, loud reactions. Zero seriousness, maximum entertainment."
+    },
+    "Bold Questions (Funny)": {
+      "about": "Hilarious, slightly edgy questions that get people laughing out loud. Not offensive, just bold enough to keep things wild.",
+      "format": "Best for 2–10 people. Bold humor, funny confessions. Push the envelope, crack everyone up."
+    },
+    "This or That (Spicy)": {
+      "about": "Flirty, provocative either/or questions that turn up the heat. For adults ready to explore attraction, intimacy, and chemistry.",
+      "format": "Adults only, 2–8 people. Spicy topics, open minds. Flirt, tease, and test boundaries."
+    },
+    "Bold Questions (Spicy)": {
+      "about": "Unapologetically direct questions about sex, desire, and intimacy. For mature audiences who want raw, honest conversations.",
+      "format": "Adults only, 2–6 people. Explicit content, no filter. Be honest, be bold, be respectful."
+    },
+    "Values & Culture": {
+      "about": "Dive into workplace values, team culture, and what drives you professionally. Great for teams building trust and alignment.",
+      "format": "Perfect for 2–15 people. Work-focused values. Strengthen team culture, find common ground."
+    },
+    "Challenges & Experiences": {
+      "about": "Real talk about professional challenges, growth moments, and lessons learned the hard way. Vulnerability meets career wisdom.",
+      "format": "Best for 2–10 people. Work experiences, honest reflections. Learn from each other, grow together."
+    },
+    "Never Have I Ever": {
+      "about": "The classic game of revealing what you've done (or haven't). Expect confessions, surprises, and a lot of 'Wait, really?!' moments.",
+      "format": "Great for 3–12 people. Take turns reading, raise hands if you've done it. Simple, addictive, revealing."
+    },
+    "Debate Sparks": {
+      "about": "Hot-button topics and polarizing opinions designed to get people fired up (in a good way). Defend your take, hear the other side.",
+      "format": "Best for 4–12 people. Pick a side, debate respectfully. Passionate discussion, open minds."
+    },
+    "Would You Rather": {
+      "about": "Impossible choices that make you weigh tough trade-offs. Funny, philosophical, or downright brutal—every answer says something.",
+      "format": "Perfect for 2–10 people. Choose between two options, explain why. Quick rounds or deep discussions."
+    },
+    "Truth or Dare": {
+      "about": "The timeless party game of revealing truths or taking on wild dares. Expect laughter, embarrassment, and unforgettable moments.",
+      "format": "Best for 3–10 people. Pick Truth or Dare, complete the challenge. Keep it fun, keep it safe."
+    }
+  }
+}

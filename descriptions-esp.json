@@ -1,0 +1,84 @@
+{
+  "shuffle": {
+    "about": "Una mezcla totalmente aleatoria de preguntas de todas las categorías y estados de ánimo. Nunca sabes qué vendrá después: podría ser divertido, profundo, picante o reflexivo. Perfecto para grupos que quieren variedad y espontaneidad.",
+    "format": "Funciona para 2–15 personas. Sorteo aleatorio de todos los tipos de preguntas. Mantén a todos adivinando, mantén la energía alta."
+  },
+  "subcategories": {
+    "This or That": {
+      "about": "Preguntas rápidas y juguetonas de esto o aquello que revelan preferencias y personalidad en segundos. Perfectas para romper el hielo y descubrir qué hace que alguien funcione a través de elecciones simples pero reveladoras.",
+      "format": "Ideal para 2–8 personas. Preguntas fáciles, casuales y sin presión. Sin estrés, solo conversación divertida."
+    },
+    "Light Questions": {
+      "about": "Preguntas cálidas y accesibles que mantienen las cosas amigables y cómodas. Geniales para conocer a alguien sin profundizar demasiado rápido.",
+      "format": "Perfecto para 2–10 personas. Temas ligeros, compartir fácil. Espacio seguro para abrirse a tu propio ritmo."
+    },
+    "Moderate Questions": {
+      "about": "Un paso más profundo que la charla trivial. Estas preguntas invitan a historias significativas, opiniones y experiencias sin volverse demasiado pesadas.",
+      "format": "Mejor para 2–8 personas. Profundidad media, respuestas reflexivas. Buen equilibrio entre diversión y sustancia."
+    },
+    "In-depth Questions": {
+      "about": "Para cuando estés listo para ir más allá de la superficie. Estas preguntas exploran valores, lecciones de vida y reflexiones más profundas que revelan quién es realmente alguien.",
+      "format": "Funciona mejor con 2–6 personas. Temas más profundos, conversaciones más largas. Crea confianza y conexión real."
+    },
+    "Love Couples": {
+      "about": "Diseñadas específicamente para parejas para profundizar la intimidad, explorar sueños juntos y tener esas conversaciones dulces o difíciles que fortalecen las relaciones.",
+      "format": "Hecho para 2 personas (parejas). Preguntas íntimas, compartir honesto. Construye cercanía y comprensión."
+    },
+    "Parent Perspective": {
+      "about": "Preguntas desde el punto de vista de los padres: explorando estilos de crianza, valores que transmitirías y las alegrías y desafíos de criar hijos.",
+      "format": "Genial para 2–8 personas. Temas centrados en padres. Comparte sabiduría, ríete del caos, conéctate en el viaje."
+    },
+    "Child Perspective": {
+      "about": "Mirando hacia atrás a los recuerdos de la infancia, momentos divertidos y la lente única de ser un niño. Nostalgia encuentra narración juguetona.",
+      "format": "Perfecto para 2–10 personas. Recuerdos de infancia, historias tontas. Revive los buenos viejos tiempos juntos."
+    },
+    "Sibling Perspective": {
+      "about": "Todo sobre la dinámica entre hermanos: bromas internas, peleas épicas y el vínculo caótico que solo los hermanos entienden.",
+      "format": "Mejor para 2–6 personas. Historias específicas de hermanos. Ríete de la rivalidad, celebra el vínculo."
+    },
+    "Grandparent Perspective": {
+      "about": "Honrando la sabiduría, el humor y las historias de los abuelos. Preguntas que provocan conexión intergeneracional y consejos atemporales.",
+      "format": "Ideal para 2–8 personas. Compartir multigeneracional. Cierra la brecha, atesora las historias."
+    },
+    "This or That (Funny)": {
+      "about": "Escenarios ridículos de esto o aquello que no tienen sentido pero provocan grandes risas. Espera absurdo, espera caos, espera diversión.",
+      "format": "Perfecto para 2–12 personas. Elecciones tontas, reacciones ruidosas. Cero seriedad, máximo entretenimiento."
+    },
+    "Bold Questions (Funny)": {
+      "about": "Preguntas hilarantes y ligeramente atrevidas que hacen reír a carcajadas. No ofensivas, solo lo suficientemente audaces para mantener las cosas salvajes.",
+      "format": "Mejor para 2–10 personas. Humor audaz, confesiones divertidas. Empuja el límite, haz reír a todos."
+    },
+    "This or That (Spicy)": {
+      "about": "Preguntas coquetas y provocativas de esto o aquello que suben la temperatura. Para adultos listos para explorar atracción, intimidad y química.",
+      "format": "Solo adultos, 2–8 personas. Temas picantes, mentes abiertas. Coquetea, bromea y prueba límites."
+    },
+    "Bold Questions (Spicy)": {
+      "about": "Preguntas sin disculpas directas sobre sexo, deseo e intimidad. Para audiencias maduras que quieren conversaciones crudas y honestas.",
+      "format": "Solo adultos, 2–6 personas. Contenido explícito, sin filtro. Sé honesto, sé audaz, sé respetuoso."
+    },
+    "Values & Culture": {
+      "about": "Sumérgete en los valores laborales, la cultura del equipo y lo que te impulsa profesionalmente. Genial para equipos que construyen confianza y alineación.",
+      "format": "Perfecto para 2–15 personas. Valores centrados en el trabajo. Fortalece la cultura del equipo, encuentra puntos en común."
+    },
+    "Challenges & Experiences": {
+      "about": "Charla real sobre desafíos profesionales, momentos de crecimiento y lecciones aprendidas por las malas. Vulnerabilidad encuentra sabiduría profesional.",
+      "format": "Mejor para 2–10 personas. Experiencias laborales, reflexiones honestas. Aprende de los demás, crece juntos."
+    },
+    "Never Have I Ever": {
+      "about": "El juego clásico de revelar lo que has hecho (o no). Espera confesiones, sorpresas y muchos momentos de '¡¿Espera, en serio?!'",
+      "format": "Genial para 3–12 personas. Túrnense para leer, levanten la mano si lo han hecho. Simple, adictivo, revelador."
+    },
+    "Debate Sparks": {
+      "about": "Temas candentes y opiniones polarizantes diseñadas para hacer que la gente se apasione (de buena manera). Defiende tu postura, escucha el otro lado.",
+      "format": "Mejor para 4–12 personas. Elige un lado, debate respetuosamente. Discusión apasionada, mentes abiertas."
+    },
+    "Would You Rather": {
+      "about": "Elecciones imposibles que te hacen sopesar difíciles compromisos. Divertido, filosófico o francamente brutal: cada respuesta dice algo.",
+      "format": "Perfecto para 2–10 personas. Elige entre dos opciones, explica por qué. Rondas rápidas o discusiones profundas."
+    },
+    "Truth or Dare": {
+      "about": "El juego de fiesta atemporal de revelar verdades o asumir desafíos salvajes. Espera risas, vergüenza y momentos inolvidables.",
+      "format": "Mejor para 3–10 personas. Elige Verdad o Reto, completa el desafío. Mantenlo divertido, mantenlo seguro."
+    }
+  }
+}
