@@ -4,7 +4,7 @@
     "subtitle": "Scegli una categoria per vedere i mazzi"
   },
   "categories": {
-    "Get to know you": "Conosciamoci meglio",
+    "Get to know you": "Conosciamoci",
     "Edgy vibes": "Vibrazioni piccanti",
     "Family talks": "Dialoghi familiari",
     "Work mood": "Atmosfera lavorativa",
@@ -199,6 +199,23 @@
   "exitModal": {
     "title": "Esci",
     "description": "Sei sicuro di voler uscire da questa sessione?"
+  },
+  "onboarding": {
+    "skip": "Salta tour",
+    "next": "Avanti",
+    "getStarted": "Inizia",
+    "slide1": {
+      "title": "Avvia conversazioni migliori",
+      "description": "Dì addio ai silenzi imbarazzanti. Lummy ti aiuta a fare domande migliori che portano a qualcosa di significativo."
+    },
+    "slide2": {
+      "title": "Avvicinati più velocemente",
+      "description": "Scopri di più su chi ami o vuoi conoscere meglio con domande che suscitano onestà, risate e legami più profondi."
+    },
+    "slide3": {
+      "title": "Sempre qualcosa di nuovo",
+      "description": "Domande infinite su un'ampia gamma di argomenti curati per rendere ogni conversazione coinvolgente e inaspettata."
+    }
   },
   "paywall": {
     "unlimited": "Illimitato",
