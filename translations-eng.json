@@ -1,10 +1,6 @@
 {
-  "home": {
-    "title": "Decks",
-    "subtitle": "Pick a category to see the decks"
-  },
   "categories": {
-    "Get to know you": "Get to know you bro",
+    "Get to know you": "Get to know you pickle",
     "Edgy vibes": "Edgy vibes",
     "Family talks": "Family talks",
     "Work mood": "Work mood",
@@ -38,53 +34,6 @@
     "about": "ABOUT",
     "format": "FORMAT"
   },
-  "generator": {
-    "restart": "Restart",
-    "allComplete": "That's all! You've seen every question.",
-    "restartModal": {
-      "title": "Restart questions",
-      "description": "You've seen all questions in this category. Want to restart and go through them again?",
-      "cancel": "Cancel",
-      "confirm": "Restart"
-    }
-  },
-  "shuffle": {
-    "title": "Shuffle",
-    "description": "Can't decide which category to explore? Let the shuffle feature surprise you! Press generate to get a random conversation starter from any category - perfect for keeping things spontaneous and exciting.",
-    "about": "ABOUT",
-    "format": "FORMAT",
-    "formatDescription": "Random questions from all categories. Use filters to customize your shuffle experience by selecting specific categories and subcategories you want to include.",
-    "startButton": "Start",
-    "selectCategories": "Select at least one category"
-  },
-  "shuffleSession": {
-    "title": "Shuffle",
-    "filters": "Filters",
-    "filterItems": "Filter items",
-    "noFilters": "No categories selected",
-    "selectAtLeastOne": "Please select at least one category to continue",
-    "restartModal": {
-      "title": "Restart shuffle",
-      "description": "You've seen all questions in the selected categories. Want to restart and go through them again?",
-      "cancel": "Cancel",
-      "confirm": "Restart"
-    },
-    "filtersModal": {
-      "title": "Filters",
-      "selectAll": "Select all",
-      "deselectAll": "Deselect all",
-      "reset": "Reset",
-      "apply": "Apply",
-      "applyClose": "Apply & Close",
-      "close": "Close",
-      "resetConfirm": {
-        "title": "Reset filters",
-        "description": "Are you sure you want to reset all filters? This will deselect all categories.",
-        "cancel": "Cancel",
-        "confirm": "Reset"
-      }
-    }
-  },
   "favorites": {
     "title": "Favs",
     "empty": {
@@ -93,6 +42,7 @@
     },
     "questionCount": "{{count}} question{{plural}}",
     "playButton": "Play",
+    "restart": "Restart",
     "deleteModal": {
       "title": "Delete favorites",
       "description": "Are you sure you want to delete all favorites from this category? This action cannot be undone.",
@@ -107,6 +57,10 @@
   },
   "settings": {
     "title": "Settings",
+    "premiumBanner": {
+      "title": "Get Lummy Unlimited",
+      "description": "Endless generations & full access"
+    },
     "appearance": {
       "title": "Appearance",
       "theme": "Change theme",
@@ -131,11 +85,11 @@
       "feedback": "Send feedback",
       "rate": "Rate us on the App Store"
     },
-    "version": "Version"
+    "version": "Version 2.6"
   },
   "settingsLanguage": {
     "title": "App language",
-    "description": "Change the app language and all outputs.",
+    "description": "Change the app language and all content.",
     "english": "English",
     "spanish": "Spanish",
     "italian": "Italian",
@@ -152,19 +106,60 @@
   },
   "settingsFeedback": {
     "title": "How can we improve?",
-    "description": "Let us know how can we make the product better or what",
-    "descriptionBold": "you would like to see in the future.",
+    "description": "Let us know how we can improve the product or what you'd",
+    "descriptionBold": "like to see in the future.",
     "placeholder": "Type anything...",
     "charactersLeft": "{{count}} characters left",
     "sendButton": "Send feedback",
     "successToast": "Feedback sent successfully!",
     "errorToast": "Failed to send feedback"
   },
+  "shuffle": {
+    "title": "Shuffle",
+    "description": "Can't decide which category to explore? Let the shuffle feature surprise you! Press generate to get a random conversation question from any category - perfect for keeping things spontaneous and exciting.",
+    "about": "ABOUT",
+    "format": "FORMAT",
+    "formatDescription": "Random questions from all categories. Use filters to customize your experience by selecting specific categories and subcategories you want to include.",
+    "startButton": "Start",
+    "selectCategories": "Select at least one category"
+  },
+  "shuffleSession": {
+    "title": "Shuffle",
+    "filters": "Filters",
+    "filterItems": "Filter items",
+    "noFilters": "No categories selected",
+    "selectAtLeastOne": "Select at least one category to continue",
+    "restartModal": {
+      "title": "Restart shuffle",
+      "description": "You've seen all questions in the selected categories. Want to restart and go through them again?",
+      "cancel": "Cancel",
+      "confirm": "Restart"
+    },
+    "filtersModal": {
+      "title": "Filters",
+      "selectAll": "Select all",
+      "deselectAll": "Deselect all",
+      "reset": "Reset",
+      "apply": "Apply",
+      "applyClose": "Apply & Close",
+      "close": "Close",
+      "resetConfirm": {
+        "title": "Reset filters",
+        "description": "Are you sure you want to reset all filters? This will deselect all categories.",
+        "cancel": "Cancel",
+        "confirm": "Reset"
+      }
+    }
+  },
   "toast": {
     "addedToFavorites": "Added to favorites",
     "removedFromFavorites": "Removed from favorites",
     "languageChanged": "Language changed",
-    "themeChanged": "Theme changed"
+    "themeChanged": "Theme changed",
+    "itemDeleted": "Item deleted successfully!",
+    "purchaseRestored": "Purchases restored successfully!",
+    "noPurchasesFound": "No purchases found to restore.",
+    "restoreFailed": "Restore failed. Please try again."
   },
   "bottomNav": {
     "decks": "Decks",
@@ -173,11 +168,11 @@
     "settings": "Settings"
   },
   "rotateDevice": {
-    "title": "Please Rotate Your Device",
+    "title": "Please rotate your device",
     "description": "This app is designed for portrait mode only. Please rotate your device to continue."
   },
   "desktopWarning": {
-    "title": "Mobile Device Required",
+    "title": "Mobile device required",
     "description": "Lummy is designed for mobile devices. Please open this app on your smartphone for the best experience."
   },
   "common": {
@@ -190,39 +185,57 @@
   },
   "exitModal": {
     "title": "Exit",
-    "description": "Are you sure you want exit this session?"
+    "description": "Are you sure you want to exit this session?"
+  },
+  "onboarding": {
+    "skip": "Skip tour",
+    "next": "Next",
+    "getStarted": "Get started",
+    "slide1": {
+      "title": "Better conversations",
+      "description": "Say goodbye to awkward silence. Lummy helps you ask better questions that lead to something meaningful."
+    },
+    "slide2": {
+      "title": "Get closer, faster",
+      "description": "Learn more about the people you love or want to know better with questions that spark honesty, laughter, and deeper connection."
+    },
+    "slide3": {
+      "title": "Always something new",
+      "description": "Endless questions across a variety of curated topics to keep every conversation engaging and unexpected."
+    }
   },
   "paywall": {
     "unlimited": "Unlimited",
     "restore": "Restore",
     "pickPlan": "Pick your plan",
     "description": "Endless generations of questions, all categories unlocked, no limits.",
-    "premium": {
-      "title": "Premium",
-      "price": "$ 3.99 / month",
+    "monthly": {
+      "title": "Monthly",
+      "price": "$ 4.99 / month",
       "renewalText": "Your plan renews monthly unless you cancel.",
       "cancelText": "You can cancel anytime."
     },
-    "lifetime": {
-      "title": "Lifetime",
-      "price": "$ 14.99 pay once",
-      "onetimeText": "One-time payment. Lifetime access.",
-      "noSubscription": "No subscription."
+    "annual": {
+      "title": "Annual",
+      "badge": "SAVE 50%",
+      "price": "$ 29.99 / year",
+      "onetimeText": "Billed annually. Cancel anytime.",
+      "noSubscription": "Auto-renews annually."
     },
     "continue": "Continue",
     "purchaseSuccess": {
-      "premium": "Premium subscription activated! 🎉",
-      "lifetime": "Lifetime access unlocked! 🎉"
+      "monthly": "Monthly subscription activated! 🎉",
+      "annual": "Annual subscription activated! 🎉"
     }
   },
   "subcategoryDescriptions": {
     "shuffle": {
-      "about": "A completely random mix of questions from all categories and moods. You never know what's coming next—could be fun, deep, spicy, or reflective. Perfect for groups who want variety and spontaneity.",
-      "format": "Works for 2–15 people. Random pull from all question types. Keep everyone guessing, keep the energy high."
+      "about": "A completely random mix of questions from all categories and vibes. You never know what's coming next — could be funny, deep, spicy, or reflective. Perfect for groups who want variety and spontaneity.",
+      "format": "Works for 2–15 people. Random selection from all question types. Keep everyone guessing, keep the energy high."
     },
     "This or That": {
-      "about": "Quick, playful either/or questions that reveal preferences and personality in seconds. Perfect for breaking the ice and discovering what makes someone tick through simple but telling choices.",
-      "format": "Ideal for 2–8 people. Easy, casual, low-stakes questions. No pressure, just fun conversation."
+      "about": "Quick, playful either-or questions that reveal preferences and personality in seconds. Perfect for icebreakers and discovering what makes someone tick through simple but telling choices.",
+      "format": "Great for 2–8 people. Simple, casual, low-pressure questions. No stress, just fun conversation."
     },
     "Light Questions": {
       "about": "Warm, approachable questions that keep things friendly and comfortable. Great for getting to know someone without diving too deep too fast.",
@@ -230,46 +243,46 @@
     },
     "Moderate Questions": {
       "about": "A step deeper than small talk. These questions invite meaningful stories, opinions, and experiences without getting too heavy.",
-      "format": "Best for 2–8 people. Medium depth, thoughtful answers. Good balance between fun and substance."
+      "format": "Best for 2–8 people. Medium depth, thoughtful answers. Good balance of fun and substance."
     },
     "In-depth Questions": {
-      "about": "For when you're ready to go beneath the surface. These questions explore values, life lessons, and deeper reflections that reveal who someone truly is.",
+      "about": "For when you're ready to go beyond the surface. These questions explore values, life lessons, and deeper reflections that show who someone really is.",
       "format": "Works best with 2–6 people. Deeper topics, longer conversations. Build trust and real connection."
     },
     "Love Couples": {
-      "about": "Designed specifically for couples to deepen intimacy, explore dreams together, and have those sweet or tough conversations that strengthen relationships.",
+      "about": "Designed specifically for couples to deepen intimacy, explore dreams together, and have those sweet or tough conversations that make relationships stronger.",
       "format": "Made for 2 people (couples). Intimate questions, honest sharing. Build closeness and understanding."
     },
     "Parent Perspective": {
-      "about": "Questions from the parent's point of view—exploring parenting styles, values to pass down, and the joys and challenges of raising kids.",
-      "format": "Great for 2–8 people. Parent-focused topics. Share wisdom, laugh at chaos, bond over the journey."
+      "about": "Questions from a parent's perspective: exploring parenting styles, passing down values, and the joys and challenges of raising kids.",
+      "format": "Great for 2–8 people. Parent-focused topics. Share wisdom, laugh about chaos, bond over the journey."
     },
     "Child Perspective": {
-      "about": "Looking back at childhood memories, funny moments, and the unique lens of being a kid. Nostalgia meets playful storytelling.",
+      "about": "Reflecting on childhood memories, funny moments, and the unique lens of being a kid. Nostalgia meets playful storytelling.",
       "format": "Perfect for 2–10 people. Childhood memories, silly stories. Relive the good old days together."
     },
     "Sibling Perspective": {
-      "about": "All about sibling dynamics—inside jokes, epic fights, and the chaotic bond that only brothers and sisters understand.",
-      "format": "Best for 2–6 people. Sibling-specific stories. Laugh at the rivalry, celebrate the bond."
+      "about": "All about sibling dynamics: inside jokes, epic fights, and the chaotic bond that only brothers and sisters understand.",
+      "format": "Best for 2–6 people. Sibling-specific stories. Laugh about rivalry, celebrate the bond."
     },
     "Grandparent Perspective": {
       "about": "Honoring the wisdom, humor, and stories of grandparents. Questions that spark cross-generational connection and timeless advice.",
-      "format": "Ideal for 2–8 people. Multi-generational sharing. Bridge the gap, treasure the stories."
+      "format": "Ideal for 2–8 people. Multi-generational exchange. Bridge the gap, cherish the stories."
     },
     "This or That (Funny)": {
-      "about": "Ridiculous either/or scenarios that make no sense but spark huge laughs. Expect absurdity, expect chaos, expect fun.",
+      "about": "Ridiculous either-or scenarios that make zero sense but spark huge laughs. Expect absurdity, expect chaos, expect fun.",
       "format": "Perfect for 2–12 people. Silly choices, loud reactions. Zero seriousness, maximum entertainment."
     },
     "Bold Questions (Funny)": {
-      "about": "Hilariously cheeky questions that bring the laughs. Not offensive, just bold enough to keep things wild.",
-      "format": "Best for 2–10 people. Bold humor, funny confessions. Push the edge, make everyone laugh."
+      "about": "Hilariously bold questions that push the edge without crossing it. Not offensive, just brave enough to keep things wild.",
+      "format": "Best for 2–10 people. Edgy humor, funny confessions. Push the line, get everyone laughing."
     },
     "This or That (Spicy)": {
-      "about": "Flirty, provocative either/or questions that turn up the heat. For adults ready to explore attraction, intimacy, and chemistry.",
+      "about": "Flirty, provocative either-or questions that turn up the heat. For adults ready to explore attraction, intimacy, and chemistry.",
       "format": "Adults only, 2–8 people. Spicy topics, open minds. Flirt, tease, and test boundaries."
     },
     "Bold Questions (Spicy)": {
-      "about": "Unapologetically direct questions about sex, desire, and intimacy. For mature audiences who want raw, honest conversations.",
+      "about": "Unapologetically direct questions about sex, desire, and intimacy. For adult audiences who want raw, honest conversations.",
       "format": "Adults only, 2–6 people. Explicit content, no filter. Be honest, be bold, be respectful."
     },
     "Values & Culture": {
@@ -277,7 +290,7 @@
       "format": "Perfect for 2–15 people. Work-focused values. Strengthen team culture, find common ground."
     },
     "Challenges & Experiences": {
-      "about": "Real talk about career challenges, growth moments, and lessons learned the hard way. Vulnerability meets professional wisdom.",
+      "about": "Real talk about professional challenges, growth moments, and lessons learned the hard way. Vulnerability meets career wisdom.",
       "format": "Best for 2–10 people. Work experiences, honest reflections. Learn from each other, grow together."
     },
     "Never Have I Ever": {
@@ -289,12 +302,12 @@
       "format": "Best for 4–12 people. Pick a side, debate respectfully. Passionate discussion, open minds."
     },
     "Would You Rather": {
-      "about": "Impossible choices that make you weigh tough trade-offs. Funny, philosophical, or downright brutal—every answer says something.",
-      "format": "Perfect for 2–10 people. Choose between two options, explain why. Quick rounds or deep discussions."
+      "about": "Impossible choices that make you weigh tough tradeoffs. Funny, philosophical, or downright brutal — every answer says something.",
+      "format": "Perfect for 2–10 people. Choose between two options, explain why. Fast rounds or deep discussions."
     },
     "Truth or Dare": {
-      "about": "The timeless party game of revealing truths or taking on wild challenges. Expect laughter, embarrassment, and unforgettable moments.",
-      "format": "Best for 3–10 people. Pick Truth or Dare, complete the challenge. Keep it fun, keep it safe."
+      "about": "The timeless party game of revealing truths or accepting wild challenges. Expect laughter, embarrassment, and unforgettable moments.",
+      "format": "Best for 3–10 people. Choose truth or dare, complete the challenge. Keep it fun, keep it safe."
     }
   }
 }
