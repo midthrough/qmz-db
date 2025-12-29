@@ -1,6 +1,6 @@
 {
   "categories": {
-    "Get to know you": "Get to know you pickle",
+    "Get to know you": "Get to know you pickley",
     "Edgy vibes": "Edgy vibes",
     "Family talks": "Family talks",
     "Work mood": "Work mood",
@@ -211,14 +211,14 @@
     "description": "Endless generations of questions, all categories unlocked, no limits.",
     "monthly": {
       "title": "Monthly",
-      "price": "$ 4.99 / month",
+      "price": "{price} / month",
       "renewalText": "Your plan renews monthly unless you cancel.",
       "cancelText": "You can cancel anytime."
     },
     "annual": {
       "title": "Annual",
       "badge": "SAVE 50%",
-      "price": "$ 29.99 / year",
+      "price": "{price} / year",
       "onetimeText": "Billed annually. Cancel anytime.",
       "noSubscription": "Auto-renews annually."
     },
